@@ -13,4 +13,6 @@ addons:
   apt:
     packages:
       - freeglut3-dev
+      - libxmu-dev
+      - libxi-dev
 
