@@ -1,5 +1,7 @@
 # Isometric Optical Illusion Game
 
+[![Build Status](https://travis-ci.org/renaultfernandes/iso-illusion-game.svg?branch=master)](https://travis-ci.org/renaultfernandes/iso-illusion-game)
+
 Beautiful and fun puzzle game based on isometric optical illusions. Developed using OpenGL and C++.
 
 ![Screenshot](https://i.imgur.com/WTqUMNf.gif)
