@@ -2,7 +2,7 @@
 
 Beautiful and fun puzzle game based on isometric optical illusions. Developed using OpenGL and C++.
 
-![Screenshot](https://i.imgur.com/cC1DrnF.gif)
+![Screenshot](https://i.imgur.com/WTqUMNf.gif)
 
 ## Gameplay
 
