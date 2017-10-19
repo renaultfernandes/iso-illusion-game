@@ -1,0 +1,16 @@
+language: cpp
+
+compiler:
+  - gcc
+
+before_script:
+  - mkdir build && cd build
+  - cmake ..
+
+script: make
+
+addons:
+  apt:
+    packages:
+      - freeglut3-dev
+
